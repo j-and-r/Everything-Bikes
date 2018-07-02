@@ -53,13 +53,13 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
+        <UsersMap userLocation={this.state.userLocation} usersPlaces={this.state.userPlaces}/>
         <View style={styles.getPlaces}>
           <Button title="Get User Places" onPress={this.getUserPlacesHandler} />
         </View>
         <View style={styles.fetchLocation}>
           <FetchLocation onGetLocation={this.getUserLocationHandler} />
         </View>
-        <UsersMap userLocation={this.state.userLocation} usersPlaces={this.state.userPlaces}/>
       </View>
     );
   }

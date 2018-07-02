@@ -1,15 +1,71 @@
 [
     {
-        "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9a1d6c2bb88a23a22b5847f1ebf209ab/res/anim/catalyst_push_up_out.xml"
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
         "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7c1ea2a88dcdb5fc3352263a761b264d/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
         "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
         "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7c1ea2a88dcdb5fc3352263a761b264d/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7c1ea2a88dcdb5fc3352263a761b264d/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7c1ea2a88dcdb5fc3352263a761b264d/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9a1d6c2bb88a23a22b5847f1ebf209ab/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7c1ea2a88dcdb5fc3352263a761b264d/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9a1d6c2bb88a23a22b5847f1ebf209ab/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
@@ -28,24 +84,28 @@
         "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_fade_in.xml"
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_popup_exit.xml"
+        "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
         "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_slide_out_top.xml"
     },
     {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/7c1ea2a88dcdb5fc3352263a761b264d/res/anim/catalyst_fade_in.xml"
+    },
+    {
         "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
         "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9a1d6c2bb88a23a22b5847f1ebf209ab/res/anim/catalyst_slide_down.xml"
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
@@ -58,6 +118,10 @@
     {
         "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
         "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9a1d6c2bb88a23a22b5847f1ebf209ab/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/rohanvanklinken/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/040df52f893276e12cca96e4923993b6/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Users/rohanvanklinken/Desktop/Coding/React Native/test/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",

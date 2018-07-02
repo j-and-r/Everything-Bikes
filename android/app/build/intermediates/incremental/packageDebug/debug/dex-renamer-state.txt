@@ -1,4 +1,0 @@
-#Mon Jul 02 10:27:08 AEST 2018
-base.0=/Users/rohanvanklinken/Desktop/Projects/Everything Bikes/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
